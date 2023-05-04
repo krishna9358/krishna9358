@@ -1,11 +1,11 @@
-### Hi👋, I'm Krishna Mohan
-### Programming😄: ● C ● C++ ● Python ● Java 
-                    ● JavaScript ● HTML/CSS ● SQL
-### Technology 🤔 : ● GIT/GitHub ● Flask ● Django 
-                     ● Tkinter ● Bootstrap ● Linux 
-                     ● Matplotlib ● NumPy ● Pandas
-### COURSEWORK ⚡:  ● Data Structures ● Algorithms
-                     ● Web Development ● Cyber Security 
+Hi👋, I'm Krishna Mohan
+Programming😄: ● C ● C++ ● Python ● Java 
+                ● JavaScript ● HTML/CSS ● SQL
+Technology 🤔 : ● GIT/GitHub ● Flask ● Django 
+                 ● Tkinter ● Bootstrap ● Linux 
+                 ● Matplotlib ● NumPy ● Pandas
+COURSEWORK ⚡:  ● Data Structures ● Algorithms
+                ● Web Development ● Cyber Security 
 
 
 
