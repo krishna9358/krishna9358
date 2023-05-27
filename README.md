@@ -3,7 +3,7 @@ Hi👋, I'm Krishna Mohan
                 ● JavaScript ● HTML/CSS ● SQL
 - Technology 🤔 : ● GIT/GitHub ● Django ● Linux
                   ● Bootstrap ● NumPy ● Pandas
-                 ● Matplotlib ● PyTorch ● Flash ● Tkinter
+                 ● Matplotlib ● PyTorch ● Flask ● Tkinter
 - COURSEWORK ⚡:  ● Data Structures ● Algorithms
                 ● Web Development ● Cyber Security 
                 ● Machine Learning
