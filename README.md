@@ -1,7 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+---
 
+<h1 align="center">
+  hey there, I am Krishna! <div>https://komarev.com/ghpvc/?username=krishna9358 </div>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+</h1>
+<h3>
+  I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. My journey includes significant achievements, such as co-authoring a research paper on the practical application of deep learning, accepted for publication in a reputable journal.
+</h3>
+
+---
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/krishna-mohan-194124167/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
