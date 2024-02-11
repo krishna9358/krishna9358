@@ -69,6 +69,9 @@
                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="vercel" alt="" width="40" height="40" /> &nbsp;
                                                         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="" width="40" height="40"/> &nbsp;
                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kuberneters" alt="" width="40" height="40"/> &nbsp;
+                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="kuberneters" alt="" width="40" height="40"/> &nbsp;
+
+                                                          
       
 
 </div>
