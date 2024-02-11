@@ -4,7 +4,7 @@
 
 <h3 align="center">
   hey there, I am Krishna!    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+<br>
   <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/krishna-mohan-194124167/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,6 +15,7 @@
   <a href="https://twitter.com/Krshxxna">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=krishna9358&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -23,7 +24,7 @@
 <h6>
   I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. My journey includes significant achievements, such as co-authoring a research paper on the practical application of deep learning, accepted for publication in a reputable journal.
 <br>
-[Gmail](mailto:youremail@gmail.com)
+[Gmail](mailto:krishanmohank974@gmail.com)
 </h6>
 
 
