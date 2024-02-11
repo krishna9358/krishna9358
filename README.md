@@ -34,41 +34,41 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="" alt="" width="40" height="40"/> &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="" alt="" width="40" height="40"/> &nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="" alt="" width="40" height="40"/> &nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-              <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                              <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                              <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                      <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
-                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="" alt="" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="" width="40" height="40"/> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="" width="40" height="40"/> &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="" width="40" height="40"/> &nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="cloudflare" alt="" width="40" height="40"/> &nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="" width="40" height="40"/> &nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="" width="40" height="40"/> &nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="" width="40" height="40"/> &nbsp;
+                  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="" width="40" height="40"/> &nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="" width="40" height="40"/> &nbsp;
+                      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" alt="" width="40" height="40"/> &nbsp;
+                        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="" alt="flask" width="40" height="40"/> &nbsp;
+                          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="" width="40" height="40"/> &nbsp;
+                            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="" width="40" height="40"/> &nbsp;
+                              <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="" width="40" height="40"/> &nbsp;
+                                <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="" width="40" height="40"/> &nbsp;
+                                  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="" width="40" height="40"/> &nbsp;
+                                    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="" width="40" height="40"/> &nbsp;
+                                      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="" width="40" height="40"/> &nbsp;
+                                        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="mongoose" alt="" width="40" height="40"/> &nbsp;
+                                          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="" width="40" height="40"/> &nbsp;
+                                            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="" width="40" height="40"/> &nbsp;
+                                              <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="" width="40" height="40"/> &nbsp;
+                                                <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="openapi" alt="" width="40" height="40"/> &nbsp;
+                                                  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="" width="40" height="40"/> &nbsp;
+                                                    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="" width="40" height="40"/> &nbsp;
+                                                      <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="prisma" alt="" width="40" height="40"/> &nbsp;
+                                                        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="" width="40" height="40"/> &nbsp;
+                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="" width="40" height="40"/> &nbsp;
+                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="" width="40" height="40"/> &nbsp;
+                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="" width="40" height="40"/> &nbsp;
+                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="" width="40" height="40"/> &nbsp;
+                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="vercel" alt="" width="40" height="40" /> &nbsp;
+                                                        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="" width="40" height="40"/> &nbsp;
+                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kuberneters" alt="" width="40" height="40"/> &nbsp;
       
 
 </div>
