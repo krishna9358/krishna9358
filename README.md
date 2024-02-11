@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
----
 
-<h1 align="center">
-  hey there, I am Krishna! <div>https://komarev.com/ghpvc/?username=krishna9358 </div>
+<h3 align="center">
+  hey there, I am Krishna! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <a href="https://komarev.com/ghpvc/?username=krishna9358"> </a>
   
-</h1>
-<h3>
-  I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. My journey includes significant achievements, such as co-authoring a research paper on the practical application of deep learning, accepted for publication in a reputable journal.
 </h3>
+<h6>
+  I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. My journey includes significant achievements, such as co-authoring a research paper on the practical application of deep learning, accepted for publication in a reputable journal.
+</h6>
 
 ---
 <div id="badges" align="center">
