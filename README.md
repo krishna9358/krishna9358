@@ -6,13 +6,13 @@
   hey there, I am Krishna!    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <br>
   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/krishna-mohan-194124167/">
+  <a href="https://www.linkedin.com/in/krishna-mohan-194124167/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
-  <a href="https://twitter.com/Krshxxna">
+  <a href="https://twitter.com/Krshxxna" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <br>
