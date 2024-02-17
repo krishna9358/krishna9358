@@ -6,7 +6,7 @@
   hey there, I am Krishna!    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <br>
   <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/krishna-mohan-194124167/)">
+  <a href="https://www.linkedin.com/in/krishna-mohan-194124167/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="">
