@@ -24,7 +24,7 @@
 <h6>
   I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. My journey includes significant achievements, such as co-authoring a research paper on the practical application of deep learning, accepted for publication in a reputable journal.
 <br>
-[Gmail](mailto:krishanmohank974@gmail.com)
+Gmail : krishanmohank974@gmail.com
 </h6>
 
 
