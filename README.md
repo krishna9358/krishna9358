@@ -1,1 +1,1 @@
-I like web and deep neural nets.
+I like web and training neural nets.
